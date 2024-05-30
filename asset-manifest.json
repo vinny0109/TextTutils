@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTutils/static/css/main.f855e6bc.css",
+    "main.js": "/TextTutils/static/js/main.9e8702a5.js",
+    "static/js/488.837ae01e.chunk.js": "/TextTutils/static/js/488.837ae01e.chunk.js",
+    "index.html": "/TextTutils/index.html",
+    "main.f855e6bc.css.map": "/TextTutils/static/css/main.f855e6bc.css.map",
+    "main.9e8702a5.js.map": "/TextTutils/static/js/main.9e8702a5.js.map",
+    "488.837ae01e.chunk.js.map": "/TextTutils/static/js/488.837ae01e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9e8702a5.js"
+  ]
+}
